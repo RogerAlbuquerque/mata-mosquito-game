@@ -19,8 +19,8 @@ body {
 }
 
 .container img{
-	width: 80vw;
-	height: 80vh;
+	width: 50vw;
+	height: 70vh;
 
 }
 
@@ -87,7 +87,7 @@ body {
 }
 
 
-@media (min-width: 720px){
+@media screen and (min-width: 1280px){
 	.container img{
 		width: 40vw;
 		height: 80vh;
